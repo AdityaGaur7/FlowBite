@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Watch Series 7 GPS, Aluminium Case, Starlight Sport",
+      "image": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-1.jpg",
+      "rating": 5.0,
+      "price": 599
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21 Ultra 5G, 128GB, Phantom Silver",
+      "image": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-2.jpg",
+      "rating": 4.8,
+      "price": 1249
+    },
+    {
+      "id": 3,
+      "name": "Sony WH-1000XM4 Wireless Noise Canceling Overhead Headphones", 
+      "image": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-3.jpg",
+      "rating": 4.7,
+      "price": 348
+    },
+    {
+      "id": 4,
+      "name": "Bose QuietComfort 45 Bluetooth Wireless Noise Cancelling Headphones",
+      "image": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-4.jpg",
+      "rating": 4.6,
+      "price": 329
+    },
+    {
+      "id": 5,
+      "name": "Dell XPS 13 9310 Laptop, 13.4-inch FHD InfinityEdge Touch Display, Intel Core i7-1165G7, 16GB RAM, 512GB SSD, Windows 10 Home",
+      "image": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-5.jpg",
+      "rating": 4.5,
+      "price": 1699
+    },
+    {
+      "id": 6,
+      "name": "Apple MacBook Pro M1 Pro, 14-inch Liquid Retina XDR Display, 16GB Unified Memory, 512GB SSD, Apple M1 Pro Chip",
+      "image": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-6.jpg",
+      "rating": 4.9,
+      "price": 1999
+    },
+    {
+      "id": 7,
+      "name": "Samsung 870 QVO 2TB 2.5 Inch SATA III Internal SSD (MZ-77Q2T0B/AM)",
+      "image": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-7.jpg",
+      "rating": 4.6,
+      "price": 199
+    },
+    {
+      "id": 8,
+      "name": "WD Blue 500GB 2.5 Inch SATA III Internal SSD (WDS500G2B0A)",
+      "image": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-8.jpg",
+      "rating": 4.5,
+      "price": 69
+    },
+    {
+      "id": 9,
+      "name": "LG 27UK850-W 27-inch 4K UHD IPS Monitor with HDR10",
+      "image": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-9.jpg",
+      "rating": 4.7,
+      "price": 499
+    },
+    {
+      "id": 10,
+      "name": "Samsung LC27G75TQSNXZA 27-inch Odyssey G7 Gaming Monitor, 2560 x 1440, 240Hz, 1ms, HDR 600, G-Sync",
+      "image": "https://flowbite.s3.amazonaws.com/docs/gallery/masonry/image-10.jpg",
+      "rating": 4.8,
+      "price": 699
+    }
+  ]
